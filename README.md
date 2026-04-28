@@ -1,101 +1,57 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-04-28T06:28:39.832Z",
-  "profile": {
-    "title": "Aarchi",
-    "subtitle": "A passionate C# developer",
-    "currentWork": "Building scalable Web APIs using ASP.NET Core & SQL Server ",
-    "currentLearn": "System Design, Microservices Architecture, and Azure Cloud  ",
-    "collaborateOn": ".NET backend projects and real-world enterprise applications  ",
-    "helpWith": "Advanced system design and cloud deployment strategies  ",
-    "ama": "C#, ASP.NET Core, Web APIs, MVC, SQL Server  ",
-    "contact": "aarchii48@gmail.com",
-    "funFact": "I enjoy debugging more than writing code 😄",
-    "visitorsBadge": false,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": false,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": false,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "aarchi-8",
-    "dev": "",
-    "linkedin": "https://www.linkedin.com/in/aarchi-11212624a/",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "https://leetcode.com/u/aarchisoorma/",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "bootstrap",
-    "cplusplus",
-    "csharp",
-    "css3",
-    "dotnet",
-    "flask",
-    "git",
-    "jupyter",
-    "linux",
-    "matplotlib",
-    "mysql",
-    "numpy",
-    "pandas",
-    "python",
-    "seaborn"
-  ]
-}
+# 👋 Hi, I'm Aarchi  
+
+### 💻 A passionate C# & .NET Developer  
+
+🔭 **Currently working on:**  
+Building scalable Web APIs using ASP.NET Core & SQL Server  
+
+🌱 **Currently learning:**  
+System Design, Microservices Architecture, and Azure Cloud  
+
+👯 **Looking to collaborate on:**  
+.NET backend projects and real-world enterprise applications  
+
+🤝 **Looking for help with:**  
+Advanced system design and cloud deployment strategies  
+
+💬 **Ask me about:**  
+C#, ASP.NET Core, Web APIs, MVC, SQL Server  
+
+📫 **How to reach me:**  
+📧 aarchii48@gmail.com  
+
+⚡ **Fun fact:**  
+I enjoy debugging more than writing code 😄  
+
+---
+
+## 🌐 Connect with me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aarchi-11212624a/)  
+- 💻 [GitHub](https://github.com/aarchi-8)  
+- 🧠 [LeetCode](https://leetcode.com/u/aarchisoorma/)  
+
+---
+
+## 🚀 Tech Stack  
+- 💻 C#, ASP.NET Core, Web API  
+- 🗄️ SQL Server, MySQL  
+- 🌐 HTML, CSS, Bootstrap  
+- ⚙️ Git, Linux  
+
+---
+
+## 📊 GitHub Stats  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aarchi-8&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats  
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarchi-8&theme=tokyonight)
+
+---
+
+## 👀 Profile Views  
+
+![Visitors](https://komarev.com/ghpvc/?username=aarchi-8&label=Profile%20views&color=0e75b6&style=flat)
